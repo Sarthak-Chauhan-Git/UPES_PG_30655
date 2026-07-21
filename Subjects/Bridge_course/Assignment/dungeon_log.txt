@@ -1,0 +1,5 @@
+Day 1: Entered the tower.
+Day 2: Cleared Floor 3 — the Infinite Corridor.
+Day 3: Defeated the Fibonacci Golem.
+Day 4: Reached the Cursed Archive.
+Day 5: Learned file handling. The Archive bows.
